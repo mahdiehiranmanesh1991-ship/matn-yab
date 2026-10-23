@@ -1,0 +1,14 @@
+{
+  "name": "matn-yab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "متن‌یاب — on-device Persian/English OCR & PDF text extraction PWA (Tesseract.js + PDF.js, offline)",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "e2e": "node tests/e2e.mjs",
+    "serve": "cd .. && python3 -m http.server 8080",
+    "icons": "node scripts/icons.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

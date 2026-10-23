@@ -1,0 +1,209 @@
+{
+ "date": "2026-10-23T09:16:57.661Z",
+ "imgSecs": 2.363,
+ "pdfSecs": 2.601,
+ "images": {
+  "clean": {
+   "cer": 0,
+   "ms": 357,
+   "conf": 88,
+   "pass": "enhanced",
+   "skew": 0
+  },
+  "small": {
+   "cer": 0.032,
+   "ms": 274,
+   "conf": 88,
+   "pass": "enhanced",
+   "skew": 0
+  },
+  "chat": {
+   "cer": 0.028,
+   "ms": 533,
+   "conf": 85,
+   "pass": "binarized",
+   "skew": 0
+  },
+  "legal": {
+   "cer": 0.03,
+   "ms": 394,
+   "conf": 88,
+   "pass": "enhanced",
+   "skew": 0
+  },
+  "photo": {
+   "cer": 0.02,
+   "ms": 682,
+   "conf": 85,
+   "pass": "enhanced",
+   "skew": -3.6
+  }
+ },
+ "pdfs": {
+  "office": {
+   "cer": 0,
+   "source": "pdf-text"
+  },
+  "legacy": {
+   "cer": 0,
+   "source": "pdf-text"
+  },
+  "textlayer": {
+   "cer": 0.052,
+   "source": "ocr-broken-text",
+   "ms": 749
+  },
+  "scanned": {
+   "cer": [
+    0.069,
+    0
+   ],
+   "ms": [
+    1076,
+    295
+   ]
+  }
+ },
+ "results": [
+  {
+   "name": "RTL + Persian",
+   "ok": true
+  },
+  {
+   "name": "Vazirmatn (local font) loaded",
+   "ok": true
+  },
+  {
+   "name": "extract button disabled when empty",
+   "ok": true
+  },
+  {
+   "name": "multi-select adds 5 images to queue",
+   "ok": true
+  },
+  {
+   "name": "OCR clean.png CER ≤ 0.02",
+   "ok": true
+  },
+  {
+   "name": "OCR small.png CER ≤ 0.06",
+   "ok": true
+  },
+  {
+   "name": "OCR chat.png CER ≤ 0.08",
+   "ok": true
+  },
+  {
+   "name": "OCR legal.png CER ≤ 0.1",
+   "ok": true
+  },
+  {
+   "name": "OCR photo.jpg CER ≤ 0.06",
+   "ok": true
+  },
+  {
+   "name": "no Arabic ي/ك in output",
+   "ok": true
+  },
+  {
+   "name": "progress shows done",
+   "ok": true
+  },
+  {
+   "name": "digit toggle → Latin digits",
+   "ok": true
+  },
+  {
+   "name": "digit toggle back → Persian digits (email/latin kept)",
+   "ok": true
+  },
+  {
+   "name": "join lines",
+   "ok": true
+  },
+  {
+   "name": "undo restores lines",
+   "ok": true
+  },
+  {
+   "name": "half-space fix",
+   "ok": true
+  },
+  {
+   "name": "one-tap copy → clipboard",
+   "ok": true
+  },
+  {
+   "name": ".txt download (UTF-8 BOM)",
+   "ok": true
+  },
+  {
+   "name": ".docx download is a zip",
+   "ok": true
+  },
+  {
+   "name": "PDF page counts",
+   "ok": true
+  },
+  {
+   "name": "Office PDF: text layer used + RTL fixed",
+   "ok": true
+  },
+  {
+   "name": "legacy PDF (visual order, presentation forms, ي/ك): fixed",
+   "ok": true
+  },
+  {
+   "name": "broken text layer → OCR fallback",
+   "ok": true
+  },
+  {
+   "name": "scanned 2-page PDF → OCR per page",
+   "ok": true
+  },
+  {
+   "name": "copy per page button on multi-page result",
+   "ok": true
+  },
+  {
+   "name": "paste adds image",
+   "ok": true
+  },
+  {
+   "name": "crop applied",
+   "ok": true
+  },
+  {
+   "name": "cropped OCR only has the top part",
+   "ok": true
+  },
+  {
+   "name": "history saved in IndexedDB",
+   "ok": true
+  },
+  {
+   "name": "history delete",
+   "ok": true
+  },
+  {
+   "name": "service worker controls page",
+   "ok": true
+  },
+  {
+   "name": "works fully offline after first load",
+   "ok": true
+  },
+  {
+   "name": "PDF text layer offline",
+   "ok": true
+  },
+  {
+   "name": "no external network requests",
+   "ok": true
+  },
+  {
+   "name": "no console errors",
+   "ok": true
+  }
+ ]
+}
