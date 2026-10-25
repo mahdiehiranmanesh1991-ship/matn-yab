@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" role="img" aria-label="مودبورد جهت C">
+  <title>مودبورد - هوش هندسی</title>
+  <defs>
+    <pattern id="mod" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#E2E8F0" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="640" fill="#F5F7FA"/>
+  <rect width="960" height="640" fill="url(#mod)"/>
+  <rect x="40" y="40" width="360" height="360" fill="#0E1A2B"/>
+  <g transform="translate(130,130)">
+    <rect x="16" y="16" width="160" height="160" fill="none" stroke="#F5F7FA" stroke-width="4"/>
+    <path d="M140 50 A50 50 0 0 1 140 150" fill="none" stroke="#2F5C8F" stroke-width="8"/>
+    <path d="M115 65 A32 32 0 0 1 115 135" fill="none" stroke="#F5F7FA" stroke-width="6"/>
+    <path d="M95 80 A16 16 0 0 1 95 120" fill="none" stroke="#C4A484" stroke-width="5"/>
+    <circle cx="78" cy="100" r="7" fill="#C4A484"/>
+  </g>
+  <text x="60" y="440" font-family="Vazirmatn, Tahoma, sans-serif" font-size="14" fill="#6B7280">مدول آوا - شبکه 8×8</text>
+  <text x="900" y="100" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="34" font-weight="700" fill="#0E1A2B">ساختار = وضوح</text>
+  <text x="900" y="140" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="15" fill="#2F5C8F">حروف روی شبکه؛ آموزش به مثابه سیستم</text>
+  <text x="900" y="200" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="40" font-weight="700" fill="#0E1A2B">آوای عدالت</text>
+  <g transform="translate(460,240)">
+    <rect width="80" height="100" fill="#0E1A2B"/><text x="40" y="120" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Vazirmatn, Tahoma, sans-serif">#0E1A2B</text>
+    <rect x="90" width="80" height="100" fill="#F5F7FA" stroke="#E2E8F0"/><text x="130" y="120" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Vazirmatn, Tahoma, sans-serif">#F5F7FA</text>
+    <rect x="180" width="80" height="100" fill="#2F5C8F"/><text x="220" y="120" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Vazirmatn, Tahoma, sans-serif">#2F5C8F</text>
+    <rect x="270" width="80" height="100" fill="#C4A484"/><text x="310" y="120" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Vazirmatn, Tahoma, sans-serif">#C4A484</text>
+    <rect x="360" width="80" height="100" fill="#6B7280"/><text x="400" y="120" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Vazirmatn, Tahoma, sans-serif">#6B7280</text>
+  </g>
+  <rect x="460" y="420" width="120" height="120" fill="none" stroke="#0E1A2B" stroke-width="3"/>
+  <rect x="500" y="460" width="40" height="40" fill="#2F5C8F"/>
+  <rect x="620" y="420" width="120" height="120" fill="#0E1A2B"/>
+  <circle cx="680" cy="480" r="28" fill="none" stroke="#C4A484" stroke-width="4"/>
+  <text x="900" y="580" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="12" fill="#6B7280">کبالت خاموش - خاک رس - بدون نئون</text>
+</svg>

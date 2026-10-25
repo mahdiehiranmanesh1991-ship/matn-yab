@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" role="img" aria-label="لاک‌آپ آوای عدالت - جهت B">
+  <title>آوای عدالت - Contemporary Legal Archive</title>
+  <rect width="720" height="280" fill="#FFFFFF"/>
+  <g stroke="#D6D9DC" stroke-width="1" fill="none">
+    <rect x="40" y="40" width="640" height="200"/>
+    <line x1="40" y1="70" x2="680" y2="70"/>
+    <line x1="160" y1="40" x2="160" y2="240"/>
+  </g>
+  <text x="50" y="60" font-family="Vazirmatn, Tahoma, sans-serif" font-size="11" fill="#9AA3A8">AE-ID / 00</text>
+  <g transform="translate(55,95) scale(0.95)">
+    <path d="M28 26h52v72H28z" fill="none" stroke="#1F4E5F" stroke-width="3"/>
+    <path d="M40 34h36v8h12v56H40z" fill="#D6D9DC" stroke="#242628" stroke-width="3"/>
+    <rect x="76" y="34" width="12" height="8" fill="#A66A4E"/>
+  </g>
+  <text x="200" y="155" font-family="Vazirmatn, Tahoma, sans-serif" font-size="48" font-weight="500" fill="#242628" letter-spacing="4">آوای عدالت</text>
+  <text x="200" y="188" font-family="Vazirmatn, Tahoma, sans-serif" font-size="13" fill="#1F4E5F">آرشیو زنده دانش حقوقی</text>
+  <rect x="200" y="200" width="48" height="3" fill="#A66A4E"/>
+  <text x="670" y="230" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="11" fill="#9AA3A8">DIRECTION B - ARCHIVE</text>
+</svg>

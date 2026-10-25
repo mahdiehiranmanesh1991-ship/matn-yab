@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="مفهوم انیمیشن لوگو - جهت B">
+  <title>Motion B - شبکه، زبانه، وردمارک</title>
+  <rect width="640" height="360" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Vazirmatn, Tahoma, sans-serif" font-size="12" fill="#9AA3A8">0.0s grid - 0.5s folio - 1.0s wordmark - 2.6s loop</text>
+  <g stroke="#D6D9DC" stroke-width="1.5" fill="none" stroke-dasharray="800" stroke-dashoffset="800">
+    <rect x="120" y="70" width="400" height="200"/>
+    <line x1="120" y1="110" x2="520" y2="110"/>
+    <animate attributeName="stroke-dashoffset" values="800;0;0" keyTimes="0;0.35;1" dur="2.6s" repeatCount="indefinite"/>
+  </g>
+  <g opacity="0" transform="translate(160,130)">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.35;0.5;1" dur="2.6s" repeatCount="indefinite"/>
+    <path d="M28 26h52v72H28z" fill="none" stroke="#1F4E5F" stroke-width="3"/>
+    <path d="M40 34h36v8h12v56H40z" fill="#D6D9DC" stroke="#242628" stroke-width="3"/>
+    <rect x="76" y="34" width="12" height="8" fill="#A66A4E"/>
+  </g>
+  <text x="300" y="200" font-family="Vazirmatn, Tahoma, sans-serif" font-size="32" font-weight="500" fill="#242628" letter-spacing="6" opacity="0">آوای عدالت
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.55;0.75;1" dur="2.6s" repeatCount="indefinite"/>
+  </text>
+  <text x="300" y="235" font-family="Vazirmatn, Tahoma, sans-serif" font-size="12" fill="#1F4E5F" opacity="0">AE-ID / 00
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.7;0.85;1" dur="2.6s" repeatCount="indefinite"/>
+  </text>
+</svg>

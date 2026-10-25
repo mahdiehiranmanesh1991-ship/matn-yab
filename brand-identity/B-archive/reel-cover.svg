@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" role="img" aria-label="کاور ریل اینستاگرام - جهت B">
+  <title>Reel Cover B - آوای عدالت</title>
+  <rect width="1080" height="1920" fill="#FFFFFF"/>
+  <rect width="1080" height="160" fill="#1F4E5F"/>
+  <text x="80" y="95" font-family="Vazirmatn, Tahoma, sans-serif" font-size="24" fill="#D6D9DC">AE-REEL / 04-17</text>
+  <text x="1000" y="95" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="24" fill="#FFFFFF">پرونده کوتاه</text>
+  <g stroke="#D6D9DC" stroke-width="1">
+    <line x1="80" y1="240" x2="1000" y2="240"/>
+    <line x1="80" y1="240" x2="80" y2="1400"/>
+    <line x1="1000" y1="240" x2="1000" y2="1400"/>
+    <line x1="80" y1="1400" x2="1000" y2="1400"/>
+    <line x1="80" y1="820" x2="1000" y2="820"/>
+  </g>
+  <text x="960" y="400" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="72" font-weight="600" fill="#242628">ماده قانونی</text>
+  <text x="960" y="500" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="72" font-weight="600" fill="#242628">در ۶۰ ثانیه</text>
+  <rect x="760" y="540" width="200" height="10" fill="#A66A4E"/>
+  <text x="960" y="620" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="28" fill="#1F4E5F">ارجاع‌پذیر - قابل بایگانی</text>
+  <g transform="translate(420,960) scale(2.2)">
+    <path d="M28 26h52v72H28z" fill="none" stroke="#1F4E5F" stroke-width="3"/>
+    <path d="M40 34h36v8h12v56H40z" fill="#D6D9DC" stroke="#242628" stroke-width="3"/>
+    <rect x="76" y="34" width="12" height="8" fill="#A66A4E"/>
+  </g>
+  <rect y="1680" width="1080" height="240" fill="#141A1C"/>
+  <text x="540" y="1780" text-anchor="middle" font-family="Vazirmatn, Tahoma, sans-serif" font-size="44" font-weight="500" fill="#FFFFFF" letter-spacing="2">آوای عدالت</text>
+  <text x="540" y="1845" text-anchor="middle" font-family="Vazirmatn, Tahoma, sans-serif" font-size="22" fill="#9AA3A8">آرشیو زنده دانش حقوقی</text>
+</svg>

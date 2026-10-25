@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="مفهوم حروف‌نگاری فارسی - جهت C">
+  <title>Lettering Concept C</title>
+  <defs>
+    <pattern id="cgrid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#E2E8F0" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="520" fill="#F5F7FA"/>
+  <rect x="40" y="60" width="820" height="220" fill="url(#cgrid)" stroke="#0E1A2B" stroke-width="1"/>
+  <image href="wordmark.svg" x="80" y="80" width="740" height="180" preserveAspectRatio="xMidYMid meet"/>
+  <g font-family="Vazirmatn, Tahoma, sans-serif" fill="#0E1A2B" font-size="13">
+    <text x="860" y="340" text-anchor="end" font-weight="700">تصمیم حروف‌نگاری</text>
+    <text x="860" y="365" text-anchor="end" fill="#2F5C8F">وزن 700 روی شبکه - کانترهای دایره‌ای ع و و با منطق مدول</text>
+    <text x="860" y="390" text-anchor="end" fill="#2F5C8F">فاصله متوسط مثبت برای نشستن در سلول‌های مربعی</text>
+    <text x="860" y="415" text-anchor="end" fill="#2F5C8F">ترمینال‌های نزدیک به مربع؛ بدون پر و انحنای تزئینی</text>
+    <text x="860" y="440" text-anchor="end" fill="#2F5C8F">نشان مدولار می‌تواند جایگزین یا همراه وردمارک باشد</text>
+    <text x="860" y="480" text-anchor="end" fill="#C4A484" font-size="12">گام بعد: بازطراحی دستی هر حرف روی گرید 8 واحدی</text>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" role="img" aria-label="مودبورد جهت A">
+  <title>مودبورد - اقتدار سرمقاله‌ای تجربی</title>
+  <rect width="960" height="640" fill="#EEF1F4"/>
+  <rect x="0" y="0" width="420" height="640" fill="#12151C"/>
+  <rect x="48" y="64" width="120" height="8" fill="#B91C2C"/>
+  <text x="48" y="140" font-family="Vazirmatn, Tahoma, sans-serif" font-size="36" font-weight="800" fill="#FFFFFF">صدا، نه تشریفات</text>
+  <text x="48" y="180" font-family="Vazirmatn, Tahoma, sans-serif" font-size="15" fill="#A8B2BC">سرمقاله حقوقی با هیبت رسانه معتبر</text>
+  <rect x="448" y="40" width="472" height="200" fill="#FFFFFF"/>
+  <rect x="448" y="40" width="472" height="6" fill="#12151C"/>
+  <text x="880" y="100" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="42" font-weight="800" fill="#12151C">آوای عدالت</text>
+  <text x="880" y="140" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="18" font-weight="500" fill="#5C6570">عنوان اصلی - ExtraBold</text>
+  <text x="880" y="175" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="14" fill="#5C6570">متن بدنه با فاصله سطر باز برای خوانش طولانی حقوقی</text>
+  <text x="880" y="210" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="11" font-weight="300" letter-spacing="2" fill="#A8B2BC">META / ISSUE 01</text>
+  <g transform="translate(448,268)">
+    <rect width="88" height="120" fill="#12151C"/><text x="44" y="140" text-anchor="middle" font-size="10" fill="#5C6570" font-family="Vazirmatn, Tahoma, sans-serif">#12151C</text>
+    <rect x="96" width="88" height="120" fill="#EEF1F4" stroke="#A8B2BC"/><text x="140" y="140" text-anchor="middle" font-size="10" fill="#5C6570" font-family="Vazirmatn, Tahoma, sans-serif">#EEF1F4</text>
+    <rect x="192" width="88" height="120" fill="#B91C2C"/><text x="236" y="140" text-anchor="middle" font-size="10" fill="#5C6570" font-family="Vazirmatn, Tahoma, sans-serif">#B91C2C</text>
+    <rect x="288" width="88" height="120" fill="#5C6570"/><text x="332" y="140" text-anchor="middle" font-size="10" fill="#5C6570" font-family="Vazirmatn, Tahoma, sans-serif">#5C6570</text>
+    <rect x="384" width="88" height="120" fill="#A8B2BC"/><text x="428" y="140" text-anchor="middle" font-size="10" fill="#5C6570" font-family="Vazirmatn, Tahoma, sans-serif">#A8B2BC</text>
+  </g>
+  <rect x="448" y="440" width="220" height="160" fill="#12151C"/>
+  <rect x="468" y="468" width="160" height="3" fill="#FFFFFF"/>
+  <rect x="468" y="488" width="120" height="2" fill="#A8B2BC"/>
+  <rect x="468" y="508" width="180" height="4" fill="#B91C2C" transform="rotate(-8 468 508)"/>
+  <text x="468" y="575" font-family="Vazirmatn, Tahoma, sans-serif" font-size="12" fill="#A8B2BC">قواعد + برش</text>
+  <rect x="700" y="440" width="220" height="160" fill="#FFFFFF" stroke="#A8B2BC"/>
+  <text x="900" y="500" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="22" font-weight="800" fill="#12151C">عدم تقارن</text>
+  <text x="900" y="535" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="13" fill="#5C6570">کاغذ سرد، جوهر گرم قرمز</text>
+</svg>

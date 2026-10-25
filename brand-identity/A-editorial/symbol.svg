@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="نشان آوای عدالت - اقتدار سرمقاله‌ای">
+  <title>قلم سرمقاله</title>
+  <desc>ساقه عمودی شبیه الف با سه قاعده افقی و یک برش قرمز سردبیری. بدون ترازو، پتک یا ستون.</desc>
+  <rect x="54" y="14" width="12" height="92" fill="#12151C"/>
+  <rect x="22" y="28" width="76" height="3" fill="#12151C"/>
+  <rect x="30" y="48" width="60" height="2.5" fill="#5C6570"/>
+  <rect x="38" y="66" width="44" height="2" fill="#A8B2BC"/>
+  <rect x="18" y="56" width="84" height="4" fill="#B91C2C" transform="rotate(-12 60 58)"/>
+</svg>

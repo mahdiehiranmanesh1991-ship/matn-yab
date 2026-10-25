@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="مفهوم حروف‌نگاری فارسی - جهت B">
+  <title>Lettering Concept B</title>
+  <rect width="900" height="520" fill="#FFFFFF"/>
+  <rect x="40" y="40" width="820" height="440" fill="none" stroke="#D6D9DC"/>
+  <text x="60" y="70" font-family="Vazirmatn, Tahoma, sans-serif" font-size="12" fill="#9AA3A8">AE LETTERING / B</text>
+  <image href="wordmark.svg" x="80" y="100" width="740" height="180" preserveAspectRatio="xMidYMid meet"/>
+  <g stroke="#A66A4E" stroke-width="1" stroke-dasharray="4 4">
+    <line x1="120" y1="290" x2="120" y2="310"/>
+    <line x1="200" y1="290" x2="200" y2="310"/>
+    <line x1="280" y1="290" x2="280" y2="310"/>
+    <line x1="360" y1="290" x2="360" y2="310"/>
+  </g>
+  <g font-family="Vazirmatn, Tahoma, sans-serif" fill="#242628" font-size="13">
+    <text x="860" y="340" text-anchor="end" font-weight="600">تصمیم حروف‌نگاری</text>
+    <text x="860" y="365" text-anchor="end" fill="#1F4E5F">وزن 500 - یکنواختی آرشیوی، نه نمایش لوکس</text>
+    <text x="860" y="390" text-anchor="end" fill="#1F4E5F">Tracking مثبت - هر نویسه مثل مدخل فهرست قابل تشخیص است</text>
+    <text x="860" y="415" text-anchor="end" fill="#1F4E5F">ترمینال‌های باز؛ اجتناب از تزئین نستعلیق برای خوانایی دیجیتال</text>
+    <text x="860" y="440" text-anchor="end" fill="#1F4E5F">هم‌زیستی با ارقام لاتین/فارسی در کدهای ارجاع</text>
+    <text x="860" y="475" text-anchor="end" fill="#A66A4E" font-size="12">نمونه اولیه outlined - آماده تنظیم دستی فاصله و ترمینال‌ها</text>
+  </g>
+</svg>
