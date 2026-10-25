@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="نشان آوای عدالت - آرشیو حقوقی معاصر">
+  <title>زبانه پرونده</title>
+  <desc>دو صفحه هندسی هم‌پوشان با بریدگی فهرست و علامت ثبت. بدون ترازو، پتک یا ستون.</desc>
+  <path d="M28 26h52v72H28z" fill="none" stroke="#1F4E5F" stroke-width="3"/>
+  <path d="M40 34h36v8h12v56H40z" fill="#D6D9DC" stroke="#242628" stroke-width="3" stroke-linejoin="miter"/>
+  <rect x="76" y="34" width="12" height="8" fill="#A66A4E"/>
+  <g stroke="#9AA3A8" stroke-width="1.5" fill="none">
+    <line x1="60" y1="18" x2="60" y2="26"/>
+    <line x1="56" y1="22" x2="64" y2="22"/>
+    <line x1="60" y1="98" x2="60" y2="106"/>
+    <line x1="56" y1="102" x2="64" y2="102"/>
+  </g>
+</svg>

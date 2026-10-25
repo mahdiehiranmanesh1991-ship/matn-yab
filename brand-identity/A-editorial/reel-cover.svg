@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" role="img" aria-label="کاور ریل اینستاگرام - جهت A">
+  <title>Reel Cover A - آوای عدالت</title>
+  <rect width="1080" height="1920" fill="#12151C"/>
+  <rect y="0" width="1080" height="120" fill="#EEF1F4"/>
+  <rect y="120" width="280" height="16" fill="#B91C2C"/>
+  <text x="1040" y="75" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="28" font-weight="300" letter-spacing="4" fill="#5C6570">REEL - 01</text>
+  <text x="1000" y="720" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="96" font-weight="800" fill="#FFFFFF">چرا قانون</text>
+  <text x="1000" y="840" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="96" font-weight="800" fill="#FFFFFF">صدا دارد؟</text>
+  <rect x="620" y="900" width="380" height="8" fill="#B91C2C"/>
+  <text x="1000" y="980" text-anchor="end" font-family="Vazirmatn, Tahoma, sans-serif" font-size="28" fill="#A8B2BC">گفتار کوتاه حقوقی</text>
+  <g transform="translate(480,1480) scale(1.8)">
+    <rect x="54" y="14" width="12" height="92" fill="#EEF1F4"/>
+    <rect x="22" y="28" width="76" height="3" fill="#EEF1F4"/>
+    <rect x="30" y="48" width="60" height="2.5" fill="#A8B2BC"/>
+    <rect x="38" y="66" width="44" height="2" fill="#5C6570"/>
+    <rect x="18" y="56" width="84" height="4" fill="#B91C2C" transform="rotate(-12 60 58)"/>
+  </g>
+  <text x="540" y="1780" text-anchor="middle" font-family="Vazirmatn, Tahoma, sans-serif" font-size="40" font-weight="800" fill="#FFFFFF">آوای عدالت</text>
+  <text x="540" y="1840" text-anchor="middle" font-family="Vazirmatn, Tahoma, sans-serif" font-size="20" fill="#A8B2BC">آموزش و رسانه حقوقی</text>
+</svg>

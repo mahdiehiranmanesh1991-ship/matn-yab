@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="نشان آوای عدالت - هوش هندسی">
+  <title>مدول آوا</title>
+  <desc>کمان‌های تودرتو داخل مربع شبکه - تداعی صدا و کانتر حرف ع. بدون ترازو، پتک یا ستون.</desc>
+  <rect x="16" y="16" width="88" height="88" fill="none" stroke="#0E1A2B" stroke-width="3"/>
+  <g stroke="#E2E8F0" stroke-width="1">
+    <line x1="16" y1="45" x2="104" y2="45"/>
+    <line x1="16" y1="74" x2="104" y2="74"/>
+    <line x1="45" y1="16" x2="45" y2="104"/>
+    <line x1="74" y1="16" x2="74" y2="104"/>
+  </g>
+  <g fill="none" stroke-linecap="square">
+    <path d="M78 38 A22 22 0 0 1 78 82" stroke="#2F5C8F" stroke-width="5"/>
+    <path d="M66 44 A14 14 0 0 1 66 76" stroke="#0E1A2B" stroke-width="4"/>
+    <path d="M56 50 A7 7 0 0 1 56 70" stroke="#C4A484" stroke-width="3"/>
+  </g>
+  <circle cx="48" cy="60" r="4" fill="#0E1A2B"/>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="مفهوم انیمیشن لوگو - جهت C">
+  <title>Motion C - شبکه، کمان‌ها، نام</title>
+  <rect width="640" height="360" fill="#F5F7FA"/>
+  <text x="24" y="32" font-family="Vazirmatn, Tahoma, sans-serif" font-size="12" fill="#6B7280">0.0s grid - 0.4s arcs - 1.1s wordmark - 2.8s loop</text>
+  <rect x="250" y="60" width="140" height="140" fill="none" stroke="#0E1A2B" stroke-width="3" stroke-dasharray="560" stroke-dashoffset="560">
+    <animate attributeName="stroke-dashoffset" values="560;0;0" keyTimes="0;0.25;1" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(250,60)" fill="none" stroke-linecap="square">
+    <path d="M100 40 A30 30 0 0 1 100 100" stroke="#2F5C8F" stroke-width="6" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100">
+      <animate attributeName="stroke-dashoffset" values="100;100;0;0" keyTimes="0;0.25;0.5;1" dur="2.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M85 50 A18 18 0 0 1 85 90" stroke="#0E1A2B" stroke-width="5" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100">
+      <animate attributeName="stroke-dashoffset" values="100;100;0;0" keyTimes="0;0.35;0.55;1" dur="2.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M72 58 A9 9 0 0 1 72 82" stroke="#C4A484" stroke-width="4" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100">
+      <animate attributeName="stroke-dashoffset" values="100;100;0;0" keyTimes="0;0.45;0.6;1" dur="2.8s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="60" cy="70" r="4" fill="#0E1A2B" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.55;0.65;1" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="320" y="260" text-anchor="middle" font-family="Vazirmatn, Tahoma, sans-serif" font-size="34" font-weight="700" fill="#0E1A2B" opacity="0">آوای عدالت
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.65;0.8;1" dur="2.8s" repeatCount="indefinite"/>
+  </text>
+  <text x="320" y="295" text-anchor="middle" font-family="Vazirmatn, Tahoma, sans-serif" font-size="13" fill="#2F5C8F" opacity="0">هوش هندسی
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.75;0.9;1" dur="2.8s" repeatCount="indefinite"/>
+  </text>
+</svg>
